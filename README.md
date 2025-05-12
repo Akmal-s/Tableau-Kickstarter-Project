@@ -48,4 +48,6 @@ Provides a geographic understanding of crowdfunding strengths and weaknesses
 
 Equips analysts with a visual tool to study funding dynamics over time
 
+preview : ![Dashboard Preview](https://github.com/Akmal-s/Tableau-Kickstarter-Project/blob/main/Kickstarter_crowdfunding_tableau.png)
+
 
